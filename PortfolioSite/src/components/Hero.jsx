@@ -26,8 +26,8 @@ function Hero() {
           </div>
           
           <p className="hero-description animate-fadeInUp" style={{ animationDelay: '0.6s' }}>
-            Passionate software developer with a strong foundation in Frontend Development. 
-            I love building efficient, user-friendly applications and solving complex problems.
+            BCA student and web developer. I build websites with React,
+            HTML, CSS and JavaScript.
           </p>
           
           <div className="hero-buttons animate-fadeInUp" style={{ animationDelay: '0.8s' }}>

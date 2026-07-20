@@ -20,17 +20,14 @@ function About() {
             <div className="about-card card">
               <h3>Who I Am</h3>
               <p>
-                I'm <strong>Udit</strong>, a passionate software developer with a strong foundation 
-                in <strong>Frontend Development</strong>. I love building efficient, user-friendly 
-                applications and solving complex problems.
+                I'm <strong>Udit</strong>, a BCA student at Govt. Holkar Science College.
+                I build websites mainly with <strong>HTML, CSS, JavaScript, React, Bootstrap
+                and Tailwind</strong>.
               </p>
               <p>
-                My expertise includes <strong>HTML, CSS, JavaScript, Bootstrap & Tailwind</strong>, 
-                and I'm always eager to learn and grow in the tech industry. I'm currently pursuing 
-                my <strong>Bachelor's in Computer Applications</strong> at Govt. Holkar Science College.
-              </p>
-              <p>
-                Let's connect and create something amazing!
+                I did a web development internship at CodSoft where I built a few full
+                stack projects (job board, blogging platform, calculator app and more).
+                Currently working on improving my skills and making more projects.
               </p>
             </div>
           </div>
@@ -64,8 +61,8 @@ function About() {
             <div className="stat-label">Technologies Learned</div>
           </div>
           <div className="stat-card card">
-            <div className="stat-value gradient-text">∞</div>
-            <div className="stat-label">Passion for Learning</div>
+            <div className="stat-value gradient-text">10+</div>
+            <div className="stat-label">Mini Projects Built</div>
           </div>
         </div>
       </div>

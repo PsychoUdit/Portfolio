@@ -17,8 +17,8 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Add your form submission logic here
-    alert('Thank you for your message! This is a demo form. Please connect via email or phone.');
+    // form is not connected to anything yet
+    alert('Form not connected to anything yet, email me directly at Uditchouhan30102004@gmail.com');
     setFormData({ name: '', email: '', message: '' });
   };
 
@@ -61,7 +61,7 @@ function Contact() {
         <h2 className="section-title gradient-text">Get In Touch</h2>
         
         <p className="contact-subtitle">
-          Have a question or want to work together? I'd love to hear from you!
+          Want to work together or just say hi? Send me a message.
         </p>
         
         <div className="contact-content">
@@ -149,7 +149,7 @@ function Contact() {
         <footer className="footer">
           <div className="footer-content">
             <p>&copy; 2025 Udit Chouhan. All rights reserved.</p>
-            <p className="footer-tagline">Built with ❤️ using React + Vite</p>
+            <p className="footer-tagline">Built with React + Vite</p>
           </div>
         </footer>
       </div>

@@ -2,25 +2,33 @@
 import './Projects.css';
 
 function Projects() {
-  // Placeholder projects - user will add their own
   const projects = [
     {
       id: 1,
-      title: "Your Project Title 1",
-      description: "Add your project description here. Explain what the project does, the technologies used, and what problems it solves.",
-      technologies: ["HTML", "CSS", "JavaScript"],
+      title: "Job Board Platform",
+      description: "Full stack job portal made for my CodSoft internship. Employers post jobs, candidates apply with a resume upload. React + Express + MongoDB.",
+      technologies: ["React", "Node.js", "Express", "MongoDB"],
       image: null,
       liveLink: "#",
-      codeLink: "#"
+      codeLink: "https://github.com/PsychoUdit/CODSOFT_TASKSNO"
     },
     {
       id: 2,
-      title: "Your Project Title 2",
-      description: "Add your project description here. Explain what the project does, the technologies used, and what problems it solves.",
-      technologies: ["React", "CSS", "API"],
+      title: "Weather App",
+      description: "Weather app built with React that shows the forecast for any city using the OpenWeather API.",
+      technologies: ["React", "API", "CSS"],
       image: null,
       liveLink: "#",
-      codeLink: "#"
+      codeLink: "https://github.com/PsychoUdit/WeatherApp"
+    },
+    {
+      id: 3,
+      title: "To-Do List App",
+      description: "A to-do list with add, edit, delete and filters. Tasks are saved in localStorage so they stay after you close the tab.",
+      technologies: ["HTML", "CSS", "JavaScript", "LocalStorage"],
+      image: null,
+      liveLink: "#",
+      codeLink: "https://github.com/PsychoUdit/ToDoList"
     }
   ];
 

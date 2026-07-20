@@ -86,11 +86,11 @@ function Skills() {
         
         <div className="skills-highlight card">
           <div className="highlight-content">
-            <h3>Always Learning, Always Growing</h3>
+            <h3>Currently Learning</h3>
             <p>
-              I'm constantly expanding my skillset and staying up-to-date with the latest 
-              technologies and best practices in web development. Currently focused on 
-              mastering modern frameworks and enhancing my problem-solving abilities.
+              Working on improving my React and Node skills. The CodSoft
+              internship helped a lot with that, I built 4 full stack apps
+              during it.
             </p>
           </div>
         </div>
