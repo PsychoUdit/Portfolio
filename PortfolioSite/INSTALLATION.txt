@@ -1,0 +1,60 @@
+============================================
+   UDIT'S PORTFOLIO - INSTALLATION GUIDE
+============================================
+
+STEP 1: INSTALL DEPENDENCIES
+-----------------------------
+Open Command Prompt in this folder and type:
+
+    npm install
+
+Press ENTER and wait for it to complete.
+
+
+STEP 2: START THE WEBSITE
+-----------------------------
+Type:
+
+    npm run dev
+
+Press ENTER. The website will start!
+
+
+STEP 3: VIEW IN BROWSER
+-----------------------------
+Open your browser and go to:
+
+    http://localhost:5173
+
+
+ALTERNATIVE: EASY START
+-----------------------------
+Just double-click the "start.bat" file!
+
+
+IMPORTANT: ADD YOUR PROJECTS
+-----------------------------
+1. Open: src/components/Projects.jsx
+2. Update the projects array with your 2 projects
+3. See QUICKSTART.md for detailed instructions
+
+
+NEED HELP?
+-----------------------------
+Read these files in order:
+1. PROJECT_SUMMARY.md - Overview
+2. QUICKSTART.md - Quick guide
+3. README.md - Full documentation
+
+
+Your portfolio includes:
+✓ Your name and info from resume
+✓ All your skills
+✓ Education timeline
+✓ Contact information
+✓ Space for 2 projects (you add these!)
+✓ Modern design with animations
+✓ Fully responsive
+✓ Ready for internship applications!
+
+============================================
