@@ -12,7 +12,7 @@ function Projects() {
       technologies: ["React", "Node.js", "Express", "MongoDB"],
       image: fitness ,
       liveLink: "24-fitness.vercel.app",
-      codeLink: "https://github.com/PsychoUdit/portfolio"
+      codeLink: "https://github.com/PsychoUdit/24-Fitness"
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ function Projects() {
       technologies: ["React", "API", "CSS"],
       image: menu, 
       liveLink: "Pavilion-dine-menu.vercel.app",
-      codeLink: "https://github.com/PsychoUdit/dine-in-menu"
+      codeLink: "https://github.com/PsychoUdit/pavilion-dine-menu"
     },
   ];
 
