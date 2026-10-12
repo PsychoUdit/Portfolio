@@ -8,7 +8,7 @@ function Projects() {
     {
       id: 1,
       title: "A Gym Intro Landing Page",
-      description: "I built a real world landing page  for My Gym in my first year of college to try my newly learnt frontend skills",
+      description: "I built a real world landing page for My Gym in my first year of college to try my newly learnt frontend skills",
       technologies: ["React", "Node.js", "Express", "MongoDB"],
       image: fitness ,
       liveLink: "24-fitness.vercel.app",
