@@ -26,7 +26,7 @@ function Projects() {
       title: "Online Doctor Queue",
       description: "A realtime Queuing system which were developed to solve the unnecessary wait of the patients at the doctor's clinic 
 it provides real time queue with exact waiting time and assures the patient of a reliable queue system .",
-      technologies: ["React", "API", "CSS","Node.js","Backend"],
+      technologies: ["React", "API","Node.js","Supabase Backend","Typescript"],
       image: '/queuedoc.jpg', 
       liveLink: "https://queuedoc-ivory.vercel.app",
       codeLink: "https://github.com/PsychoUdit/INTANT_DOC_QUEUE"
