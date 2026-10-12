@@ -21,6 +21,16 @@ function Projects() {
       liveLink: "https://Pavilion-dine-menu.vercel.app",
       codeLink: "https://github.com/PsychoUdit/pavilion-dine-menu"
     },
+    {
+      id: 3,
+      title: "Online Doctor Queue",
+      description: "A realtime Queuing system which were developed to solve the unnecessary wait of the patients at the doctor's clinic 
+it provides real time queue with exact waiting time and assures the patient of a reliable queue system .",
+      technologies: ["React", "API", "CSS","Node.js","Backend"],
+      image: '/queuedoc.jpg', 
+      liveLink: "https://queuedoc-ivory.vercel.app",
+      codeLink: "https://github.com/PsychoUdit/INTANT_DOC_QUEUE"
+    },
   ];
 
   return (
