@@ -1,7 +1,7 @@
   import React from 'react';
 import './Projects.css';
-import fitness from './24fitness.png';
-import menu from './menu.jpg';
+import fitness from './public/24fitness.png';
+import menu from './public/menu.jpg';
 
 function Projects() {
   const projects = [
