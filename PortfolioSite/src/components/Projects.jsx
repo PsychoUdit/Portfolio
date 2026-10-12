@@ -1,35 +1,28 @@
   import React from 'react';
 import './Projects.css';
+import fitness from './assets/24fitness.png';
+import menu from ' ./assets/menu.jpg
 
 function Projects() {
   const projects = [
     {
       id: 1,
-      title: "Job Board Platform",
-      description: "Full stack job portal made for my CodSoft internship. Employers post jobs, candidates apply with a resume upload. React + Express + MongoDB.",
+      title: "A Gym Intro Landing Page",
+      description: "I built a real world landing page  for My Gym in my first year of college to try my newly learnt frontend skills",
       technologies: ["React", "Node.js", "Express", "MongoDB"],
-      image: null,
-      liveLink: "#",
-      codeLink: "https://github.com/PsychoUdit/CODSOFT_TASKSNO"
+      image: fitness ,
+      liveLink: "24-fitness.vercel.app",
+      codeLink: "https://github.com/PsychoUdit/portfolio"
     },
     {
       id: 2,
-      title: "Weather App",
-      description: "Weather app built with React that shows the forecast for any city using the OpenWeather API.",
+      title: "Dine In Menu",
+      description: "A interactive dine in menu for a nice restaurant i personally visited and delivered them a QR menu landing to digitise there Buisness.",
       technologies: ["React", "API", "CSS"],
-      image: null,
-      liveLink: "#",
-      codeLink: "https://github.com/PsychoUdit/WeatherApp"
+      image: menu, 
+      liveLink: "Pavilion-dine-menu.vercel.app",
+      codeLink: "https://github.com/PsychoUdit/dine-in-menu"
     },
-    {
-      id: 3,
-      title: "To-Do List App",
-      description: "A to-do list with add, edit, delete and filters. Tasks are saved in localStorage so they stay after you close the tab.",
-      technologies: ["HTML", "CSS", "JavaScript", "LocalStorage"],
-      image: null,
-      liveLink: "#",
-      codeLink: "https://github.com/PsychoUdit/ToDoList"
-    }
   ];
 
   return (
