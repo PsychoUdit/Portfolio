@@ -1,7 +1,7 @@
   import React from 'react';
 import './Projects.css';
 import fitness from './24fitness.png';
-import menu from ' ./menu.jpg
+import menu from ' ./menu.jpg';
 
 function Projects() {
   const projects = [
@@ -11,7 +11,7 @@ function Projects() {
       description: "I built a real world landing page for My Gym in my first year of college to try my newly learnt frontend skills",
       technologies: ["React", "Node.js", "Express", "MongoDB"],
       image: fitness ,
-      liveLink: "24-fitness.vercel.app",
+      liveLink: "https://24-fitness.vercel.app",
       codeLink: "https://github.com/PsychoUdit/24-Fitness"
     },
     {
@@ -20,7 +20,7 @@ function Projects() {
       description: "A interactive dine in menu for a nice restaurant i personally visited and delivered them a QR menu landing to digitise there Buisness.",
       technologies: ["React", "API", "CSS"],
       image: menu, 
-      liveLink: "Pavilion-dine-menu.vercel.app",
+      liveLink: "https://Pavilion-dine-menu.vercel.app",
       codeLink: "https://github.com/PsychoUdit/pavilion-dine-menu"
     },
   ];
